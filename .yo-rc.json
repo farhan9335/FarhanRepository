@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "FirstGitApplication",
+    "packageName": "com.farhan.myapp",
+    "packageFolder": "com/farhan/myapp",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "ZTg3YjY1N2ExMzQwNWMxZDA5NTBiNjFkMzgyZDQ0NDQ1YzU2ODcwY2I5ODZiYmFjODc1ODhmNzg2M2I0ZTBlYjM2NzFjNmFmMzQ5MzQ5N2JkYTI3ZWY2ZDA5YmVhZmJmNWUxMDgwZDI0MThhYjEyZjE1NWQxZTNlN2ZlYjYxZDk=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "farhan9335",
+  "repository-name": "FarhanRepository"
+}
